@@ -1,1 +1,1 @@
-- Estudante de programação 
+Analista de sistemas e estudante de programação 
